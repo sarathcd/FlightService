@@ -1,0 +1,5 @@
+G:\Jobs\TravelRepublic\TRTest\TRTest\bin\Debug\TRTest.dll
+G:\Jobs\TravelRepublic\TRTest\TRTest\bin\Debug\TRTest.pdb
+G:\Jobs\TravelRepublic\TRTest\TRTest\obj\Debug\TRTest.csprojResolveAssemblyReference.cache
+G:\Jobs\TravelRepublic\TRTest\TRTest\obj\Debug\TRTest.dll
+G:\Jobs\TravelRepublic\TRTest\TRTest\obj\Debug\TRTest.pdb

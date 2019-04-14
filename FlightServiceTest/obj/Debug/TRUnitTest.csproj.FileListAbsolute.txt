@@ -1,0 +1,8 @@
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\bin\Debug\TRUnitTest.dll
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\bin\Debug\TRUnitTest.pdb
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\bin\Debug\TRTest.dll
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\bin\Debug\TRTest.pdb
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\obj\Debug\TRUnitTest.csprojResolveAssemblyReference.cache
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\obj\Debug\TRUnitTest.dll
+G:\Jobs\TravelRepublic\TRTest\TRUnitTest\obj\Debug\TRUnitTest.pdb
